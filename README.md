@@ -10,7 +10,7 @@ Nessa maratona foi desenvolvido um social link como o linktree, totalmente funci
 - Author:  `Davyd Cristiano`
 - Project: `Linktree - Maratona Explorer 2.0 - Rocketseat!`
 - Full-Print:
-- <img src="https://user-images.githubusercontent.com/53920878/177466105-ad878347-9b87-4b1d-bbb3-9223440b5666.png" width="80%" alt="Imagem do Projeto">
+- <img src="https://user-images.githubusercontent.com/53920878/177513283-08681e14-eda3-47b9-86ff-1da5b4b9747c.gif" width="80%" alt="Imagem do Projeto">
 
 ## Linguagens
 - HTML5 - Hyper Text Marckup Language
