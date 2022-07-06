@@ -188,7 +188,9 @@ ul li a p {
 }
 ```
 ## Direitos Reservados
--Title:  `Linktree - Bootstrap 4.0`
--Author:  `Davyd Cristiano`
+```
+Title: Linktree - Bootstrap 4.0
+Author: Davyd Cristiano
+```
 
 
