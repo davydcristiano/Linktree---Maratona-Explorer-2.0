@@ -44,13 +44,19 @@ Nessa maratona foi desenvolvido um social link como o linktree, totalmente funci
     <meta charset="utf-8">
     <meta name="description" content="Davyd Cristiano, Linktree">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap-grid.min.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:wght@500;700&display=swap" rel="stylesheet">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/Assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/Assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
   </head>
   <body>
       <div class="container-fluid">
@@ -61,15 +67,13 @@ Nessa maratona foi desenvolvido um social link como o linktree, totalmente funci
         <p>Youtuber, UI/UX & Desenvolvedor Front-End Jr.</p>
         <br>
         <ul>
-            <li><a class="btn" href="https://www.youtube.com/channel/UCDn5q_9DMH2xiu1tSxBLIMA" alt="Botão Youtube"><p>🎬Youtube</p></a></li>
+            <li><a class="btn" href="https://www.youtube.com/channel/UCDn5q_9DMH2xiu1tSxBLIMA" alt="Botão Youtube" target="_blank"><p>🎬Youtube</p></a></li>
             
-            <li><a class="btn" href="https://www.instagram.com/davyd_cristiano/" alt="Botão Instagram"><p>📷Instagram</p></a></li>
+            <li><a class="btn" href="https://www.instagram.com/davyd_cristiano/" alt="Botão Instagram" target="_blank"><p>📷Instagram</p></a></li>
 
-            <li><a class="btn" href="https://www.facebook.com/davyd.cristiano" alt="Botão Facebook"><p>💻Facebook</p></a></li>
+            <li><a class="btn" href="https://www.linkedin.com/in/davyd-cristiano-b41b5b99/" alt="Botão Linkedin" target="_blank"><p>📘Linkedin</p></a></li>
 
-            <li><a class="btn" href="https://www.linkedin.com/in/davyd-cristiano-b41b5b99/" alt="Botão Linkedin"><p>📘Linkedin</p></a></li>
-
-            <li><a class="btn" href="https://github.com/davydcristiano" alt="Botão Github"><p>🐱Github</p></a></li>
+            <li><a class="btn" href="https://github.com/davydcristiano" alt="Botão Github" target="_blank"><p>🐱Github</p></a></li>
 
         </ul>
         <div id="footer">
@@ -110,7 +114,7 @@ body {
 }
 
 .container-fluid {
-    width: 400px;
+    width: 500px;
     text-align: center;
     margin: 60px auto;
     background-color: #1212140a;
