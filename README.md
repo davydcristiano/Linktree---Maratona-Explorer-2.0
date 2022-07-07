@@ -64,7 +64,7 @@ Nessa maratona foi desenvolvido um social link como o linktree, totalmente funci
         <img src="https://github.com/davydcristiano.png" class="img-fluid" alt="Responsive image"></div>
 
         <h1>Davyd Cristiano</h1>
-        <p>Desenvolvedor Front-End | HTML | CSS | JS |</p>
+        <p>DESENVOLVEDOR FRONT-END <br> HTML | CSS | JS |</p>
         <br>
         <ul>
             <li><a class="btn" href="https://www.youtube.com/channel/UCDn5q_9DMH2xiu1tSxBLIMA" alt="Botão Youtube" target="_blank"><p>🎬 Youtube</p></a></li>
